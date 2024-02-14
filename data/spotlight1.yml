@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "The Meta Goal for 2024"
+content: |
+  I need to hold myself accountable. Write down my goals and then make a plan about how to reach those goals.
+  That is my main goal: make a plan and stick to it. If you can do that, you will be better off.
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight01.jpg"
