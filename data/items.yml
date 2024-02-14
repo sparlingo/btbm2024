@@ -1,22 +1,22 @@
-title : "Items"
+title : "Months"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+  What is the main issue of each month. There is a cycle to the year, what do I anticipate will be my main struggle for that month?    
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "January"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-gem"
+    content : "You have gotten chubby again, not horribly so but WTF? Stop drinking, eat keto-lite, and you will lose it easily. Use your apps, take control of your health again."
+    style : "style2 major fa-weight-scale"
 
   # feature item loop
   - name : "February"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
+    content : "You are going to get screwed this month. You will have some rebound from the diet, you will be getting screwed money-wise, but that's life!"
+    style : "solid style2 major fa-face-frown"
     
   # feature item loop
   - name : "March"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
+    content : "The New Normal. Save money according to your plan. Eat/exercize according to your plan. Do your QSI thing. Just keep your eyes looking down the road."
+    style : "solid style2 major fa-medal"
     
   # feature item loop
   - name : "April"
